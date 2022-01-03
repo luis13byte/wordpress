@@ -1,2 +1,2 @@
-# wordpress
+# Wordpress
 Wordpress on Kubernetes
